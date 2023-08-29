@@ -18,7 +18,7 @@ Clone the project into your desired directory:
 
 Write this command into shell (cmd/git/powershell etc)
 
-`git clone https://github.com/retviewsinterviu/final_interviu.git`
+`git clone https://github.com/vladciobotearv/retviews-final-interview.git`
 
 If you want to see if everything is set up properly, use this command:
 
