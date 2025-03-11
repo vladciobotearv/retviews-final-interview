@@ -22,7 +22,7 @@ Write this command into shell (cmd/git/powershell etc)
 
 If you want to see if everything is set up properly, use this command:
 
-`scrapy crawl marisfrolg_cn`
+`scrapy crawl ecolaf_de`
 
 If everything is running properly, you will get a bunch of logs that tell you that links are being crawled and scraped.
 
@@ -40,7 +40,7 @@ Additional settings:
 
 - `-s CLOSESPIDER_ITEMCOUNT=x` will stop when x items are taken;
 - `-o output_file` will print the data scraped to output_file (extension must be `json`);
-- in `spiders/` you will find an example already made, called `marisfrolg.py`. You can look into it a bit, but it's not mandatory as all you need to know will be communicated to you during the interview.
+- in `spiders/` you will find an example already made, called `ecolaf.py`. You can look into it a bit, but it's not mandatory as all you need to know will be communicated to you during the interview.
 
 
 ### Good luck!
